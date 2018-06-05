@@ -1,0 +1,4 @@
+*.html
+*.pdf
+Thumbs.db
+.DS_store
