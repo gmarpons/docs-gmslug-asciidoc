@@ -1,3 +1,5 @@
 = New document template
 
 Some changes, by loreano.
+
+Some more changes.
