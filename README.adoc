@@ -1,3 +1,5 @@
 = New document template
 
 I'm NOT loreano.
+
+(But I am).
