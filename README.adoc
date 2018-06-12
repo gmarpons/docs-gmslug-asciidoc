@@ -3,3 +3,16 @@
 I'm NOT loreano.
 
 (But I am).
+
+This is a
+long
+long
+long file
+
+With independent changes.
+
+== A subsection
+
+Now here there
+are
+some changes.
