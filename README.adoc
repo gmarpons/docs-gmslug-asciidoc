@@ -1,6 +1,6 @@
 = New document template
 
-I am loreano. (No, I'm not).
+I'm NOT loreano.
 
 This is a
 long
