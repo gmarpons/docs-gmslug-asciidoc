@@ -1,6 +1,10 @@
 = New document template
 
+<<<<<<< HEAD
 I am loreano.
+=======
+I'm NOT loreano.
+>>>>>>> 8c19e2950456488b18aa5d0af5c0b32991351980
 
 This is a
 long
